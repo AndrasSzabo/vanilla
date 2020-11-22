@@ -1,6 +1,8 @@
 # vanilla
 This is an empty repository with information about setting up repositories in general. 
 
+**Disclaimer**: These notes are primarily for me to remember, so they might not work on all systems. 
+
 ## Multiple github accounts
 
 If you use more than one github accounts, it can be confusing which one is used by default. The first thing is to set up an ssh key for each account (eg: `ssh-keygen -t rsa -C "email@address.com" -f "id_rsa_1"`). Make sure the keys are registered with the correct github accounts. After this, there are more than one ways to associate an ssh key with a repository - see below
