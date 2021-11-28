@@ -100,7 +100,7 @@ An example for integration into GitHub wikis is available here: https://github.c
 
 ![Diagram](https://github.com/AndrasSzabo/vanilla/blob/main/code_structure.drawio.png)
 
-<a href="https://github.com/AndrasSzabo/vanilla/edit-diagram.html?repo=vanilla&path=code_structure.drawio.png" target="_blank">Edit</a> | 
+<a href="https://github.com/AndrasSzabo/vanilla/blob/main/edit-diagram.html?repo=vanilla&path=code_structure.drawio.png" target="_blank">Edit</a> | 
 <a href="https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-github%2Fmaster%2Fdiagram.png" target="_blank">Edit As New</a> | 
 <a href="https://app.diagrams.net/?src=about#HAndrasSzabo%2Fvanilla%2Fmain%2Fcode_structure.drawio" target="_blank">Edit in diagrams.net</a>
 
